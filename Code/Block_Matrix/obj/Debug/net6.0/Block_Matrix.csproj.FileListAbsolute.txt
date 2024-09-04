@@ -1,0 +1,14 @@
+C:\Users\Muhammad Eman Aftab\OneDrive\Desktop\HOXK5A DSA HW3\Block_Matrix\bin\Debug\net6.0\Block_Matrix.exe
+C:\Users\Muhammad Eman Aftab\OneDrive\Desktop\HOXK5A DSA HW3\Block_Matrix\bin\Debug\net6.0\Block_Matrix.deps.json
+C:\Users\Muhammad Eman Aftab\OneDrive\Desktop\HOXK5A DSA HW3\Block_Matrix\bin\Debug\net6.0\Block_Matrix.runtimeconfig.json
+C:\Users\Muhammad Eman Aftab\OneDrive\Desktop\HOXK5A DSA HW3\Block_Matrix\bin\Debug\net6.0\Block_Matrix.dll
+C:\Users\Muhammad Eman Aftab\OneDrive\Desktop\HOXK5A DSA HW3\Block_Matrix\bin\Debug\net6.0\Block_Matrix.pdb
+C:\Users\Muhammad Eman Aftab\OneDrive\Desktop\HOXK5A DSA HW3\Block_Matrix\obj\Debug\net6.0\Block_Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Eman Aftab\OneDrive\Desktop\HOXK5A DSA HW3\Block_Matrix\obj\Debug\net6.0\Block_Matrix.AssemblyInfoInputs.cache
+C:\Users\Muhammad Eman Aftab\OneDrive\Desktop\HOXK5A DSA HW3\Block_Matrix\obj\Debug\net6.0\Block_Matrix.AssemblyInfo.cs
+C:\Users\Muhammad Eman Aftab\OneDrive\Desktop\HOXK5A DSA HW3\Block_Matrix\obj\Debug\net6.0\Block_Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Eman Aftab\OneDrive\Desktop\HOXK5A DSA HW3\Block_Matrix\obj\Debug\net6.0\Block_Matrix.dll
+C:\Users\Muhammad Eman Aftab\OneDrive\Desktop\HOXK5A DSA HW3\Block_Matrix\obj\Debug\net6.0\refint\Block_Matrix.dll
+C:\Users\Muhammad Eman Aftab\OneDrive\Desktop\HOXK5A DSA HW3\Block_Matrix\obj\Debug\net6.0\Block_Matrix.pdb
+C:\Users\Muhammad Eman Aftab\OneDrive\Desktop\HOXK5A DSA HW3\Block_Matrix\obj\Debug\net6.0\Block_Matrix.genruntimeconfig.cache
+C:\Users\Muhammad Eman Aftab\OneDrive\Desktop\HOXK5A DSA HW3\Block_Matrix\obj\Debug\net6.0\ref\Block_Matrix.dll
